@@ -35,6 +35,7 @@ Conflicts:      yast2
 Conflicts:      yast2-core
 Conflicts:      yast2-logs
 Conflicts:      yast2-hardware-detection
+Conflicts:      yast2-nfs-common
 Conflicts:      yast2-pkg-bindings
 Conflicts:      yast2-perl-bindings
 Conflicts:      yast2-python3-bindings
